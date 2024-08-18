@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comunicações em Matemática Básica</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      margin: 0; 
+      padding: 0; 
+      background-color: #f4f4f4;
+    }
+    .container { 
+      width: 80%; 
+      margin: auto; 
+      background-color: #fff; 
+      padding: 20px; 
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    header { 
+      background: #0056b3; 
+      color: white; 
+      padding: 20px; 
+      text-align: center; 
+      border-radius: 8px 8px 0 0;
+    }
+    footer { 
+      background: #0056b3; 
+      color: white; 
+      padding: 10px; 
+      text-align: center; 
+      border-radius: 0 0 8px 8px;
+    }
+    h1, h2 { 
+      margin: 0 0 20px; 
+    }
+    .article-list { 
+      list-style-type: none; 
+      padding: 0; 
+    }
+    .article-list li { 
+      margin-bottom: 10px; 
+    }
+    .content-section {
+      margin-bottom: 20px;
+    }
+    a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Comunicações em Matemática Básica</h1>
+    <p>Revista de Artigos Matemáticos para Educação Básica</p>
+  </header>
+  <div class="container">
+    <section class="content-section">
+      <h2>Sobre a Revista</h2>
+      <p>A revista "Comunicações em Matemática Básica" tem como objetivo publicar artigos acadêmicos e trabalhos de pesquisa focados na matemática básica e sua aplicação na educação básica. Nosso objetivo é promover o avanço do conhecimento e a troca de ideias entre pesquisadores e educadores.</p>
+    </section>
+    <section class="content-section">
+      <h2>Artigos Recentes</h2>
+      <ul class="article-list">
+        <li>Título do Artigo 1 - Autor(es), Ano</li>
+        <li>Título do Artigo 2 - Autor(es), Ano</li>
+        <li>Título do Artigo 3 - Autor(es), Ano</li>
+      </ul>
+    </section>
+    <section class="content-section">
+      <h2>Submissão de Artigos</h2>
+      <p>Os autores interessados em submeter artigos para a revista devem seguir as diretrizes de submissão disponíveis na nossa página de submissão. Para mais informações, entre em contato conosco.</p>
+      <p>Diretrizes de Submissão: Leia aqui</p>
+    </section>
+    <section class="content-section">
+      <h2>Contato</h2>
+      <p>Para mais informações, entre em contato conosco através do e-mail: contato@matematicabasica.com.br</p>
+    </section>
+  </div>
+  <footer>
+    <p>&copy; 2024 Comunicações em Matemática Básica. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
